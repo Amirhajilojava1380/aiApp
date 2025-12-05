@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AiApp</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
